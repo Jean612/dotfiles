@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = diegojeanpier.dc@gmail.com
+	name = Jean Pier
